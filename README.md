@@ -100,21 +100,19 @@ Olá! Meu nome é Jonathan Vogado, e sou estudante de Análise e Desenvolvimento
 <br/>
 <br/>
 
-### 📊 Estatísticas
+---
 
 <p>
-  <img 
-    align="left" 
+  <img
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Journeyexe&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=journeyexe&include_all_commits=true&locale=pt-br&custom_title=Estatísticas&show_icons=true&theme=radical" 
   />
 
-<img 
-      align="left" 
+<img
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Journeyexe&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Journeyexe&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
 </p>
