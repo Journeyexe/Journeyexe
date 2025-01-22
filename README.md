@@ -4,7 +4,7 @@
 
 Olá! Meu nome é Jonathan Vogado, e sou estudante de Análise e Desenvolvimento de Sistemas no IFPI, campus Corrente. Sou entusiasta da tecnologia e tenho grande interesse em desenvolvimento de software. As minhas tecnologias favoritas incluem Python, Django, Dart, Flutter, JavaScript, React.js e Node.js. Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos e aprender ainda mais.
 
-<p align="left">
+<!-- <p align="left">
     <a href="https://github.com/Journeyexe?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -19,7 +19,7 @@ Olá! Meu nome é Jonathan Vogado, e sou estudante de Análise e Desenvolvimento
             src="https://custom-icon-badges.demolab.com/github/followers/Journeyexe?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-</p>
+</p> -->
 
 ---
 
@@ -102,7 +102,7 @@ Olá! Meu nome é Jonathan Vogado, e sou estudante de Análise e Desenvolvimento
 
 ---
 
-<table>
+<table style="border: 0">
   <tr>
     <td>
       <img
