@@ -91,7 +91,7 @@ Olá! Meu nome é Jonathan Vogado, e sou estudante de Análise e Desenvolvimento
       <img
         alt="GitHub Stats" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api?username=journeyexe&include_all_commits=true&locale=pt-br&custom_title=Estatísticas&show_icons=true&rank_icon=github&theme=radical" 
+        src="https://github-readme-stats.vercel.app/api?username=journeyexe&include_all_commits=true&locale=pt-br&custom_title=Estatísticas&show_icons=true&theme=radical" 
       />
     </td>
     <td>
