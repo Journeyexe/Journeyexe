@@ -4,23 +4,6 @@
 
 Olá! Meu nome é Jonathan Vogado, e sou estudante de Análise e Desenvolvimento de Sistemas no IFPI, campus Corrente. Sou entusiasta da tecnologia e tenho grande interesse em desenvolvimento de software. As minhas tecnologias favoritas incluem Python, Django, Dart, Flutter, JavaScript, React.js e Node.js. Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos e aprender ainda mais.
 
-<!-- <p align="left">
-    <a href="https://github.com/Journeyexe?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Journeyexe?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Journeyexe?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Journeyexe?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p> -->
-
 ---
 
 ### 🚀 Linguagens e Tecnologias
@@ -48,14 +31,6 @@ Olá! Meu nome é Jonathan Vogado, e sou estudante de Análise e Desenvolvimento
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<!-- <img 
-    align="left" 
-    alt="Django"
-    title="Django" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" 
-/> -->
 <img 
     align="left" 
     alt="Dart"
@@ -96,6 +71,14 @@ Olá! Meu nome é Jonathan Vogado, e sou estudante de Análise e Desenvolvimento
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
+<img 
+    align="left" 
+    alt="MongoDB"
+    title="MongoDB" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+/>
 
 <br/>
 <br/>
@@ -108,7 +91,7 @@ Olá! Meu nome é Jonathan Vogado, e sou estudante de Análise e Desenvolvimento
       <img
         alt="GitHub Stats" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api?username=journeyexe&include_all_commits=true&locale=pt-br&custom_title=Estatísticas&show_icons=true&theme=radical&rank_icon=github" 
+        src="https://github-readme-stats.vercel.app/api?username=journeyexe&include_all_commits=true&locale=pt-br&custom_title=Estatísticas&show_icons=true&theme=radical" 
       />
     </td>
     <td>
